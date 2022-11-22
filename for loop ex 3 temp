@@ -1,0 +1,6 @@
+def to_celsius(X):
+  return (X-32)*5/9
+  
+  
+for X in range(0,101,10):
+  print(X, to_celsius(X))
