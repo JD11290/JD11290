@@ -1,0 +1,10 @@
+def attempts(n):
+    X = 1
+    while X <=n:
+        print("Attempt " + str(X))
+        X += 1
+    print("Done")
+    
+attempts(5)
+    
+    
