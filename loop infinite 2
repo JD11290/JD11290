@@ -1,0 +1,2 @@
+while X != 0 and X % 2 == 0:
+     X = X / 2 
