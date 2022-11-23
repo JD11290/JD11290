@@ -1,0 +1,17 @@
+x = ["Now", "We", "are", "cooking"]
+type(x)
+
+print(x)
+
+len(x)
+
+"are" in x
+
+"Today" in x
+
+print(x[0]}
+
+print(x[3])
+
+x[1:3]
+
