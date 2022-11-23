@@ -1,0 +1,7 @@
+fruits = ["Pineapple", "Banana", "Apple", "Nelon"]
+fruits.append("Kiwki")
+print(fruits)
+
+fruits.insert(0, "Orange")
+print(fruits)
+
