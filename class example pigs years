@@ -1,0 +1,12 @@
+class Piglet:
+    years = 0
+    def pig_years(self):
+        return self.years * 18
+        Example one below
+       
+piggy = Piglet()
+print(piggy.pig_years())
+
+example two below
+piggy.years = 2
+print(piggy.pig_years())
